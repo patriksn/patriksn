@@ -1,16 +1,21 @@
-## Hi there 👋
+## Professional Summary
+I am an engineer with a passion for data analysis and machine learning. My expertise spans across data manipulation, statistical analysis, and predictive modeling, with a particular focus on extracting meaningful insights from complex datasets. I have a stong educational background in signal processing and numerical analysis, and have also taken multiple courses in programming, machine learning and wrote both my bachelor's and master's thesis in machine learning.
+
+### Core Skills
+- **Programming Languages**: Python, SQL
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow
+- **Database Management**: SQL
+- **Statistical Analysis**: Hypothesis Testing, Regression Analysis
+
+### Technical Projects and more info
+TBD
+<!-- Add link to portfolio later -->
+
 
 <!--
-**patriksn/patriksn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
+[Your preferred contact method]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+*This page is continuously updated with new projects and skills.*
